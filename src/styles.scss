@@ -1,1 +1,26 @@
 /* You can add global styles to this file, and also import other style files */
+
+h1 {
+ color: #ff606a;
+  font-family: "Baskerville Old Face", sans-serif;
+  font-size: 250%;
+}
+
+h2, h3 {
+  color: #ff5190;
+  font-family: "Berlin Sans FB Demi", sans-serif;
+  font-weight: lighter;
+}
+
+body {
+  margin: 2rem;
+}
+
+body, input[type="text"], button {
+  color: #333;
+  font-family: Cambria, Georgia, sans-serif;
+}
+
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
